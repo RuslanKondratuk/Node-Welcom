@@ -1,0 +1,23 @@
+{
+  "name": "node-welcom",
+  "version": "1.0.0",
+  "description": "This is our first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanKondratuk/Node-Welcom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuslanKondratuk/Node-Welcom/issues"
+  },
+  "homepage": "https://github.com/RuslanKondratuk/Node-Welcom#readme",
+  "dependencies": {
+    "immer": "^9.0.16",
+    "lodash": "^4.17.21"
+  }
+}
